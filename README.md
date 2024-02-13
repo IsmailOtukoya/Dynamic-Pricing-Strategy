@@ -36,6 +36,7 @@ This project aims to develop a dynamic pricing strategy for a ride-sharing servi
 - scikit-learn
 - matplotlib
 - seaborn
+- Plotly
 
 For detailed installation instructions, refer to `requirements.txt`.
 
