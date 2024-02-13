@@ -1,7 +1,6 @@
 # Dynamic-Pricing-Strategy
 
-download (8).png
-
+![Alt t](download_(8).png)
 
 This project aims to develop a dynamic pricing strategy for a ride-sharing service using machine learning techniques. The dataset includes information on riders, drivers, ride attributes, and historical costs. 
 
