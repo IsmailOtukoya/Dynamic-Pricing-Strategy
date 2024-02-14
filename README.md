@@ -1,6 +1,7 @@
 # Dynamic-Pricing-Strategy
 
-![Alt t](download_(8).png)
+![Dynamic  Pricing](https://ml2grow.com/wp-content/uploads/2021/11/1.png)
+
 
 This project aims to develop a dynamic pricing strategy for a ride-sharing service using machine learning techniques. The dataset includes information on riders, drivers, ride attributes, and historical costs. 
 
